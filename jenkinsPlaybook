@@ -15,8 +15,8 @@
         name: "{{item}}"
         state: present
       loop:
-        -java
-        -jenkins
+        - java
+        - jenkins
 
     - name: Start  Jenkins service
      service:
