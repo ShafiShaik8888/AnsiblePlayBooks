@@ -33,4 +33,4 @@
         src: /home/ec2-user/sample.war
         dest: /opt/ap2che-tomcat-9.0.91/webapps
         mode: '777'
-~
+
